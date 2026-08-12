@@ -2,11 +2,11 @@
 
 
 def main():
-    """Calculate and print the sum of two numbers."""
+    """Calculate and print the sum of three numbers."""
     a = 10
     b = 20
     c = a + b
-    print(c)
+    print(a + b + c)
 
 
 if __name__ == "__main__":
