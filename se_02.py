@@ -1,4 +1,13 @@
-a = 10
-b = 20
-c = a+b
-print(c*2)
+"""Simple addition program."""
+
+
+def main():
+    a = 10
+    b = 20
+    c = a + b
+
+    print(c)
+
+
+if __name__ == "__main__":
+    main()
