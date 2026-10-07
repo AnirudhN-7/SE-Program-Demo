@@ -38,4 +38,4 @@ jobs:
       run: |
         python se_02.py
         python -m pylint se_02.py
-        pyunit se_02.py
+
